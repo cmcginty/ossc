@@ -6,12 +6,12 @@
             "video_lpf": "Auto",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",
-            "g_f_off": "135",
+            "g_f_off": "100",
             "b_f_off": "128",
-            "r_f_gain": "50",
-            "g_f_gain": "50",
-            "b_f_gain": "50",
-            "c_gain": "12",
+            "r_f_gain": "170",
+            "g_f_gain": "170",
+            "b_f_gain": "170",
+            "c_gain": "8",
             "s480p_mode": "Auto",
             "s400p_mode": "VGA 640x400@70",
             "tvp_hpll2x": "On",
@@ -1034,7 +1034,7 @@
                 "v_backporch": "30",
                 "h_synclen": "62",
                 "v_synclen": "6",
-                "sampler_phase": "30"
+                "sampler_phase": "12"
             }
         ],
         [
