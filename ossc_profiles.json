@@ -140,8 +140,8 @@
             "export_enabled": "true"
         },
         {
-            "profile_name": "",
-            "video_lpf": "Auto",
+            "profile_name": "PS1 320",
+            "video_lpf": "Off",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",
             "g_f_off": "128",
@@ -149,7 +149,7 @@
             "r_f_gain": "26",
             "g_f_gain": "26",
             "b_f_gain": "26",
-            "c_gain": "8",
+            "c_gain": "7",
             "s480p_mode": "Auto",
             "s400p_mode": "VGA 640x400@70",
             "tvp_hpll2x": "On",
@@ -160,17 +160,17 @@
             "vsync_thold": "68",
             "pre_coast": "1 lines",
             "post_coast": "0 lines",
-            "pm_240p": "Line2x",
+            "pm_240p": "Line4x",
             "pm_384p": "Line2x",
-            "pm_480i": "Line2x (bob)",
-            "pm_480p": "Passthru",
+            "pm_480i": "Line4x (bob)",
+            "pm_480p": "Line2x",
             "pm_1080i": "Line2x (bob)",
-            "l2_mode": "Generic 4:3",
-            "l3_mode": "Generic 4:3",
-            "l4_mode": "Generic 4:3",
-            "l5_mode": "Generic 4:3",
+            "l2_mode": "320x240 optim.",
+            "l3_mode": "320x240 optim.",
+            "l4_mode": "320x240 optim.",
+            "l5_mode": "320x240 optim.",
             "l5_fmt": "1920x1080",
-            "ar_256col": "4:3",
+            "ar_256col": "8:7",
             "tx_mode": "HDMI (RGB)",
             "hdmi_itc": "Off",
             "sl_mode": "Off",
@@ -202,11 +202,11 @@
             "av3_alt_rgb": "Off",
             "panasonic_hack": "Off",
             "default_vic": "0",
-            "audio_dw_sampl": "2x (fs = 48kHz)",
+            "audio_dw_sampl": "Off (fs = 96kHz)",
             "audio_swap_lr": "Off",
             "audio_gain": "12",
-            "link_av": "No link",
-            "export_enabled": "false"
+            "link_av": "AV1: RGBS",
+            "export_enabled": "true"
         },
         {
             "profile_name": "",
@@ -1090,7 +1090,20 @@
                 "sampler_phase": "8"
             }
         ],
-        [],
+        [
+            {
+                "name": "320x240",
+                "h_active": "320",
+                "v_active": "240",
+                "h_total": "426",
+                "h_total_adj": "13",
+                "h_backporch": "50",
+                "v_backporch": "15",
+                "h_synclen": "31",
+                "v_synclen": "3",
+                "sampler_phase": "18"
+            }
+        ],
         [],
         [],
         [],
