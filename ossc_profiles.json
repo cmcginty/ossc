@@ -443,13 +443,13 @@
             "profile_name": "PCE 256",
             "video_lpf": "9MHz (SDTV)",
             "ypbpr_cs": "Rec. 601",
-            "r_f_off": "128",
-            "g_f_off": "128",
-            "b_f_off": "128",
+            "r_f_off": "109",
+            "g_f_off": "109",
+            "b_f_off": "109",
             "r_f_gain": "26",
             "g_f_gain": "26",
             "b_f_gain": "26",
-            "c_gain": "9",
+            "c_gain": "8",
             "clamp_offset": "128",
             "alc_v_filter": "10",
             "alc_h_filter": "3",
@@ -516,13 +516,13 @@
             "profile_name": "PCE 352",
             "video_lpf": "9MHz (SDTV)",
             "ypbpr_cs": "Rec. 601",
-            "r_f_off": "128",
-            "g_f_off": "128",
-            "b_f_off": "128",
+            "r_f_off": "109",
+            "g_f_off": "109",
+            "b_f_off": "109",
             "r_f_gain": "26",
             "g_f_gain": "26",
             "b_f_gain": "26",
-            "c_gain": "9",
+            "c_gain": "8",
             "clamp_offset": "128",
             "alc_v_filter": "10",
             "alc_h_filter": "3",
@@ -586,7 +586,7 @@
             "export_enabled": "true"
         },
         {
-            "profile_name": "",
+            "profile_name": "Generic",
             "video_lpf": "Auto",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",
@@ -656,7 +656,7 @@
             "audio_swap_lr": "Off",
             "audio_gain": "12",
             "link_av": "No link",
-            "export_enabled": "false"
+            "export_enabled": "true"
         },
         {
             "profile_name": "",
@@ -1397,7 +1397,7 @@
                 "v_backporch": "16",
                 "h_synclen": "31",
                 "v_synclen": "3",
-                "sampler_phase": "16"
+                "sampler_phase": "6"
             }
         ],
         [
@@ -1411,7 +1411,7 @@
                 "v_backporch": "16",
                 "h_synclen": "31",
                 "v_synclen": "3",
-                "sampler_phase": "16"
+                "sampler_phase": "2"
             }
         ],
         [],
