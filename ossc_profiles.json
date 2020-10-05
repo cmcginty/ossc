@@ -258,7 +258,7 @@
             "ar_256col": "8:7",
             "tx_mode": "HDMI (RGB)",
             "hdmi_itc": "Off",
-            "sl_mode": "On",
+            "sl_mode": "Auto",
             "sl_str": "3",
             "sl_hybr_str": "16",
             "sl_method": "Subtraction",
@@ -290,7 +290,7 @@
             "audio_dw_sampl": "2x (fs = 48kHz)",
             "audio_swap_lr": "Off",
             "audio_gain": "12",
-            "link_av": "No link",
+            "link_av": "AV1_RGBS",
             "export_enabled": "true"
         },
         {
@@ -318,7 +318,7 @@
             "vsync_thold": "68",
             "pre_coast": "1 lines",
             "post_coast": "0 lines",
-            "pm_240p": "Line3x",
+            "pm_240p": "Line4x",
             "pm_384p": "Line2x",
             "pm_480i": "Line2x (bob)",
             "pm_480p": "Passthru",
@@ -331,7 +331,7 @@
             "ar_256col": "8:7",
             "tx_mode": "HDMI (RGB)",
             "hdmi_itc": "Off",
-            "sl_mode": "On",
+            "sl_mode": "Auto",
             "sl_str": "3",
             "sl_hybr_str": "16",
             "sl_method": "Subtraction",
@@ -363,7 +363,7 @@
             "audio_dw_sampl": "2x (fs = 48kHz)",
             "audio_swap_lr": "Off",
             "audio_gain": "12",
-            "link_av": "No link",
+            "link_av": "AV1_RGBS",
             "export_enabled": "true"
         },
         {
@@ -404,7 +404,7 @@
             "ar_256col": "8:7",
             "tx_mode": "HDMI (RGB)",
             "hdmi_itc": "Off",
-            "sl_mode": "On",
+            "sl_mode": "Auto",
             "sl_str": "3",
             "sl_hybr_str": "16",
             "sl_method": "Subtraction",
@@ -436,7 +436,7 @@
             "audio_dw_sampl": "2x (fs = 48kHz)",
             "audio_swap_lr": "Off",
             "audio_gain": "12",
-            "link_av": "No link",
+            "link_av": "AV1_RGBS",
             "export_enabled": "true"
         },
         {
