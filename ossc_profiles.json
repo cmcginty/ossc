@@ -509,7 +509,7 @@
             "audio_dw_sampl": "2x (fs = 48kHz)",
             "audio_swap_lr": "Off",
             "audio_gain": "12",
-            "link_av": "No link",
+            "link_av": "AV1_RGBS",
             "export_enabled": "true"
         },
         {
@@ -582,7 +582,7 @@
             "audio_dw_sampl": "2x (fs = 48kHz)",
             "audio_swap_lr": "Off",
             "audio_gain": "12",
-            "link_av": "No link",
+            "link_av": "AV1_RGBS",
             "export_enabled": "true"
         },
         {
