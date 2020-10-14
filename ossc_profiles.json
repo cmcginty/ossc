@@ -1397,7 +1397,7 @@
                 "v_backporch": "16",
                 "h_synclen": "31",
                 "v_synclen": "3",
-                "sampler_phase": "6"
+                "sampler_phase": "10"
             }
         ],
         [
@@ -1411,7 +1411,7 @@
                 "v_backporch": "16",
                 "h_synclen": "31",
                 "v_synclen": "3",
-                "sampler_phase": "2"
+                "sampler_phase": "31"
             }
         ],
         [],
