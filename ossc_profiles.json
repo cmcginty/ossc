@@ -1395,7 +1395,7 @@
                 "h_total_adj": "0",
                 "h_backporch": "30",
                 "v_backporch": "16",
-                "h_synclen": "31",
+                "h_synclen": "32",
                 "v_synclen": "3",
                 "sampler_phase": "10"
             }
