@@ -1273,7 +1273,7 @@
                 "v_backporch": "15",
                 "h_synclen": "31",
                 "v_synclen": "3",
-                "sampler_phase": "2"
+                "sampler_phase": "28"
             },
             {
                 "name": "256x240",
@@ -1371,7 +1371,7 @@
                 "v_backporch": "15",
                 "h_synclen": "62",
                 "v_synclen": "3",
-                "sampler_phase": "2"
+                "sampler_phase": "5"
             },
             {
                 "name": "480p",
