@@ -3,7 +3,7 @@
     "main": [
         {
             "profile_name": "XBOX",
-            "video_lpf": "Auto",
+            "video_lpf": "Off",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",
             "g_f_off": "100",
@@ -76,7 +76,7 @@
         },
         {
             "profile_name": "Gamecube",
-            "video_lpf": "Auto",
+            "video_lpf": "Off",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "129",
             "g_f_off": "138",
@@ -222,7 +222,7 @@
         },
         {
             "profile_name": "Saturn 320",
-            "video_lpf": "9MHz (SDTV)",
+            "video_lpf": "Off",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",
             "g_f_off": "128",
@@ -295,7 +295,7 @@
         },
         {
             "profile_name": "Saturn 352",
-            "video_lpf": "9MHz (SDTV)",
+            "video_lpf": "Off",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",
             "g_f_off": "128",
@@ -441,7 +441,7 @@
         },
         {
             "profile_name": "PCE 256",
-            "video_lpf": "9MHz (SDTV)",
+            "video_lpf": "Off",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "120",
             "g_f_off": "120",
@@ -514,7 +514,7 @@
         },
         {
             "profile_name": "PCE 320",
-            "video_lpf": "9MHz (SDTV)",
+            "video_lpf": "Off",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "120",
             "g_f_off": "120",
@@ -587,7 +587,7 @@
         },
         {
             "profile_name": "PCE 512",
-            "video_lpf": "Auto",
+            "video_lpf": "Off",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "120",
             "g_f_off": "120",
