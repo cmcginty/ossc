@@ -105,7 +105,7 @@
             "pm_480p": "Passthru",
             "pm_1080i": "Line2x (bob)",
             "l2_mode": "Generic 4:3",
-            "l3_mode": "Generic 16:9",
+            "l3_mode": "Generic 4:3",
             "l4_mode": "Generic 4:3",
             "l5_mode": "Generic 4:3",
             "l5_fmt": "1920x1080",
@@ -1136,6 +1136,18 @@
                 "h_synclen": "96",
                 "v_synclen": "2",
                 "sampler_phase": "16"
+            },
+            {
+                "name": "480p",
+                "h_active": "720",
+                "v_active": "480",
+                "h_total": "858",
+                "h_total_adj": "0",
+                "h_backporch": "60",
+                "v_backporch": "30",
+                "h_synclen": "62",
+                "v_synclen": "6",
+                "sampler_phase": "1"
             },
             {
                 "name": "640x960i",
