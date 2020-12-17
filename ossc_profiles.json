@@ -3,7 +3,7 @@
     "main": [
         {
             "profile_name": "XBOX",
-            "video_lpf": "Off",
+            "video_lpf": "Auto",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",
             "g_f_off": "100",
@@ -76,7 +76,7 @@
         },
         {
             "profile_name": "Gamecube",
-            "video_lpf": "Off",
+            "video_lpf": "Auto",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "129",
             "g_f_off": "138",
@@ -149,7 +149,7 @@
         },
         {
             "profile_name": "PS1 320",
-            "video_lpf": "Off",
+            "video_lpf": "Auto",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",
             "g_f_off": "128",
@@ -218,11 +218,11 @@
             "audio_swap_lr": "Off",
             "audio_gain": "12",
             "link_av": "AV1_RGBS",
-            "export_enabled": "true"
+            "export_enabled": "false"
         },
         {
             "profile_name": "Saturn 320",
-            "video_lpf": "Off",
+            "video_lpf": "Auto",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",
             "g_f_off": "128",
@@ -295,7 +295,7 @@
         },
         {
             "profile_name": "Saturn 352",
-            "video_lpf": "Off",
+            "video_lpf": "Auto",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",
             "g_f_off": "128",
@@ -368,7 +368,7 @@
         },
         {
             "profile_name": "Saturn 704",
-            "video_lpf": "Off",
+            "video_lpf": "Auto",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",
             "g_f_off": "128",
@@ -441,7 +441,7 @@
         },
         {
             "profile_name": "PCE 256",
-            "video_lpf": "Off",
+            "video_lpf": "Auto",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "120",
             "g_f_off": "120",
@@ -514,7 +514,7 @@
         },
         {
             "profile_name": "PCE 320",
-            "video_lpf": "Off",
+            "video_lpf": "Auto",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "120",
             "g_f_off": "120",
@@ -587,7 +587,7 @@
         },
         {
             "profile_name": "PCE 512",
-            "video_lpf": "Off",
+            "video_lpf": "Auto",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "120",
             "g_f_off": "120",
