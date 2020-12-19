@@ -619,7 +619,7 @@
             "l3_mode": "320x240 optim.",
             "l4_mode": "320x240 optim.",
             "l5_mode": "320x240 optim.",
-            "l5_fmt": "1600x1200",
+            "l5_fmt": "1920x1200",
             "ar_256col": "4:3",
             "tx_mode": "HDMI (RGB)",
             "hdmi_itc": "Off",
@@ -1410,7 +1410,7 @@
                 "v_backporch": "16",
                 "h_synclen": "32",
                 "v_synclen": "3",
-                "sampler_phase": "10"
+                "sampler_phase": "4"
             }
         ],
         [
@@ -1424,7 +1424,7 @@
                 "v_backporch": "16",
                 "h_synclen": "31",
                 "v_synclen": "3",
-                "sampler_phase": "31"
+                "sampler_phase": "0"
             }
         ],
         [
@@ -1434,11 +1434,11 @@
                 "v_active": "240",
                 "h_total": "682",
                 "h_total_adj": "10",
-                "h_backporch": "77",
+                "h_backporch": "73",
                 "v_backporch": "15",
                 "h_synclen": "50",
                 "v_synclen": "4",
-                "sampler_phase": "4"
+                "sampler_phase": "31"
             }
         ],
         [],
