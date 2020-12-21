@@ -1118,13 +1118,13 @@
                 "name": "240x360",
                 "h_active": "256",
                 "v_active": "360",
-                "h_total": "302",
+                "h_total": "300",
                 "h_total_adj": "0",
                 "h_backporch": "24",
                 "v_backporch": "10",
                 "h_synclen": "18",
                 "v_synclen": "3",
-                "sampler_phase": "0"
+                "sampler_phase": "20"
             },
             {
                 "name": "640x400",
